@@ -1,7 +1,7 @@
 /**
  *
  * This application reads titles of books in a input file called BookTitles.inp and writes them
- *  to an output file called uniqueTites.out,  removing any duplicate titles.
+ *  to an output file called uniqueTites.out,  removing any duplicate titles. Extensive notes due to it being a school project.
  *
  */
 
